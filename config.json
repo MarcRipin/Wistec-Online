@@ -3,7 +3,7 @@
     "appname": "Wistec Online Mobile",
     "desktopappname": "Wistec Online Desktop",
     "versioncode" : "2023",
-    "versionname" : "3.4.2",
+    "versionname" : "3.5.0",
     "cache_expiration_time" : 300000,
     "default_lang" : "fi",
     "languages": {"en": "English", "es": "Español", "fi": "Suomi", "fr" : "Français", "it": "Italiano", "ru": "Русский", "sv": "Svenska"},
